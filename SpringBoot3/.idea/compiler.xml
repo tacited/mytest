@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sb3-07-external-config" />
+        <module name="sb3-01-first-web" />
+        <module name="sb3" />
+        <module name="sb3-011-springboot-mybatis" />
+        <module name="sb3-010-aop" />
+        <module name="lombok-test01" />
+        <module name="sb3-02-use-spring-initializr" />
+        <module name="sb3-009-config-build-bean" />
+        <module name="sb3-03-use-dragon-boot" />
+        <module name="sb3-05-core" />
+        <module name="sb3-008-yaml" />
+      </profile>
+      <profile name="Annotation profile for sb3-013-ssm" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../../BaiduNetdisk/my_maven_local_repository/org/projectlombok/lombok/unknown/lombok-unknown.jar" />
+          <entry name="$PROJECT_DIR$/../../../BaiduNetdisk/my_maven_local_repository/org/projectlombok/lombok/unknown/lombok-unknown.jar" />
+        </processorPath>
+        <module name="sb3-012-springboot-mybatis-generator" />
+        <module name="sb03-07-ssm" />
+        <module name="sb3-013-ssm" />
+      </profile>
+      <profile name="Annotation profile for sb3-09-web" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../../BaiduNetdisk/my_maven_local_repository/org/projectlombok/lombok/unknown/lombok-unknown.jar" />
+        </processorPath>
+        <module name="sb3-09-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lombok-test" target="21" />
+      <module name="sb3-06-test" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="sb03-07-ssm" options="-parameters" />
+      <module name="sb3" options="-parameters" />
+      <module name="sb3-008-yaml" options="-parameters" />
+      <module name="sb3-009-config-build-bean" options="-parameters" />
+      <module name="sb3-01-first-web" options="-parameters" />
+      <module name="sb3-010-aop" options="-parameters" />
+      <module name="sb3-011-springboot-mybatis" options="-parameters" />
+      <module name="sb3-012-springboot-mybatis-generator" options="-parameters" />
+      <module name="sb3-013-ssm" options="-parameters" />
+      <module name="sb3-02-use-spring-initializr" options="-parameters" />
+      <module name="sb3-05-core" options="-parameters" />
+      <module name="sb3-06-test" options="-parameters" />
+      <module name="sb3-07-external-config" options="-parameters" />
+      <module name="sb3-09-web" options="-parameters" />
+    </option>
+  </component>
+</project>

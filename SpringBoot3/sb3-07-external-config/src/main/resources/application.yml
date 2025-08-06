@@ -1,0 +1,5 @@
+myapp:
+  username: jim
+  email: jim@123.com
+  age: 40
+  password: jim123

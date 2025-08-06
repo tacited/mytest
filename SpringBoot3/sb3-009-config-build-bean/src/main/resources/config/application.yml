@@ -1,0 +1,39 @@
+app1:
+  age: 30
+  email: jack@123.com
+  address:
+    city: BJ
+    street: ChaoYang
+    zipcode: 123456
+
+app2:
+  age: 30
+  email: jack@123.com
+  address:
+    city: BJ
+    street: ChaoYang
+    zipcode: 123456
+
+names:
+  -jackson
+  -lucy
+  -lili
+products:
+  - name: apple
+    price: 3.0
+  - name: orange
+    price: 2.0
+vips:
+  vip1:
+    name: 小明
+    age: 20
+  vip2:
+    name: lisi
+    age: 22
+
+
+
+address01:
+  city: TJ
+  street: XiangYangLu
+  zipcode: 111111

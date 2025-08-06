@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/sb3-06-test" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/sb3-01-first-web/pom.xml" />
+        <option value="$PROJECT_DIR$/sb3/sb3/pom.xml" />
+        <option value="$PROJECT_DIR$/sb3-02-use-spring-initalizr/pom.xml" />
+        <option value="$PROJECT_DIR$/sb3-03-use-dragon-boot/pom.xml" />
+        <option value="$PROJECT_DIR$/sb3-04-use-idea-plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/sb3-05-core/pom.xml" />
+        <option value="$PROJECT_DIR$/sb3-06-test/pom.xml" />
+        <option value="$PROJECT_DIR$/sb3-07-external-config/pom.xml" />
+        <option value="$PROJECT_DIR$/sb3-008-yaml/pom.xml" />
+        <option value="$PROJECT_DIR$/sb3-009-config-build-bean/pom.xml" />
+        <option value="$PROJECT_DIR$/sb3-010-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/sb3-011-springboot-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/lombok-test/pom.xml" />
+        <option value="$PROJECT_DIR$/sb3-012-springboot-mybatis-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/sb3-013-ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/sb03-07-ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/sb3-09-web/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/sb3-06-test/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
